@@ -1,2 +1,2 @@
 # Place-Detection
-# Place-Detection
+This project will be providing building detection service through machine learning algorithm, this Android based app will be capable of detecting buildings and provide user with some historic and basic information about the building, it will also be providing a route to the detected building which the user wants to search about using Google Map. Users just have to upload the picture of the building that they want to find and this app will provide all the relevant data about it, without the hassle of searching it manually.
